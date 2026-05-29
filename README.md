@@ -1,0 +1,1 @@
+Comprehensive guide to Java AWT (Abstract Window Toolkit) covering BorderLayout, FlowLayout, GridBagLayout and event handling with practical examples.
